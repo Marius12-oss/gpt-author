@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viața în Moldova</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        h1 {
+            text-align: center;
+            margin-top: 50px;
+        }
+        h2 {
+            margin-top: 30px;
+        }
+        p {
+            text-align: justify;
+        }
+        #cuprins {
+            margin-top: 40px;
+            border-top: 2px solid #2c3e50;
+            padding-top: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #3498db;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Viața în Moldova</h1>
+
+    <div id="cuprins">
+        <h2>Cuprins</h2>
+        <ul>
+            <li><a href="#capitolul1">Capitolul 1: Introducere</a></li>
+            <li><a href="#capitolul2">Capitolul 2: Cultura și Tradițiile</a></li>
+            <li><a href="#capitolul3">Capitolul 3: Mediul Rural și Urban</a></li>
+        </ul>
+    </div>
+
+    <h2 id="capitolul1">Capitolul 1: Introducere</h2>
+    <p>Moldova este o țară situată în sud-estul Europei, cunoscută pentru peisajele sale pitorești, cultura bogată și istoria complexă. În acest capitol, vom explora contextul general al vieții în Moldova, oferind o privire de ansamblu asupra țării și a oamenilor săi.</p>
+
+    <h2 id="capitolul2">Capitolul 2: Cultura și Tradițiile</h2>
+    <p>Viața în Moldova este strâns legată de cultură și tradiții. De la festivaluri populare la meșteșuguri tradiționale, Moldova păstrează vie o moștenire culturală bogată, transmisă din generație în generație.</p>
+
+    <h2 id="capitolul3">Capitolul 3: Mediul Rural și Urban</h2>
+    <p>Moldova este caracterizată atât de sate pitorești cât și de orașe vibrante. În acest capitol, vom explora diferențele și similaritățile dintre viața rurală și cea urbană în Moldova, evidențiind provocările și oportunitățile specifice fiecărui mediu.</p>
+
+</body>
+</html>
